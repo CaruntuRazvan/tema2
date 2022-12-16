@@ -1,0 +1,25 @@
+# ninja log v5
+20	742	6928072490913788	CMakeFiles/caruntu.dir/Casa.cpp.obj	458b6a9db8cde637
+8	749	6928072490993777	CMakeFiles/caruntu.dir/IoBase.cpp.obj	788c98e971cfcf7
+10	452	6928126828257062	CMakeFiles/caruntu.dir/IOStream.cpp.obj	2c2a12450b94ceb4
+42	746	6928072490963782	CMakeFiles/caruntu.dir/Apartament.cpp.obj	7f858fc8df6acaa7
+15	746	6928072490973788	CMakeFiles/caruntu.dir/Proprietate.cpp.obj	d9a6781fd1176742
+34	1075	6928072494467411	CMakeFiles/caruntu.dir/Contract.cpp.obj	f76a08cae4e134b4
+21	468	6928126828447137	CMakeFiles/caruntu.dir/Exception2.cpp.obj	9abf8a52480e7567
+971	1193	6928126835603671	caruntu.exe	93d4d25acad65472
+6	970	6928126833450619	CMakeFiles/caruntu.dir/main.cpp.obj	3fe0ba3669a3b5d4
+15	454	6928126828267058	CMakeFiles/caruntu.dir/Exception1.cpp.obj	89b2a64f1fc83c02
+47	1540	6929238468207242	CMakeFiles/caruntu.dir/Apartament.cpp.obj	2765a95e1d2e3eb8
+38	1599	6929238468646084	CMakeFiles/caruntu.dir/IOStream.cpp.obj	8bb1270123f58514
+3	1686	6929238469184636	CMakeFiles/caruntu.dir/IoBase.cpp.obj	b409778a2f375c4b
+65	1795	6929238469822924	CMakeFiles/caruntu.dir/Casa.cpp.obj	df978cdf7ced8ba5
+22	1827	6929238470650704	CMakeFiles/caruntu.dir/Proprietate.cpp.obj	989da59b70cb3dbc
+1543	2945	6929238482159908	CMakeFiles/caruntu.dir/Exception2.cpp.obj	6416a4638b54e58f
+1599	2958	6929238482508985	CMakeFiles/caruntu.dir/Exception1.cpp.obj	64d27bc170b89a18
+14	3222	6929238485241670	CMakeFiles/caruntu.dir/main.cpp.obj	cd7ac5472617e046
+1687	3395	6929238487136597	CMakeFiles/caruntu.dir/Contract.cpp.obj	801be0bc960ec25c
+3396	3775	6929238490836694	caruntu.exe	c03de6b57d6bca34
+5	2005	6929238687399360	CMakeFiles/caruntu.dir/main.cpp.obj	cd7ac5472617e046
+2005	2387	6929238691119402	caruntu.exe	c03de6b57d6bca34
+5	10565	6929239009670006	CMakeFiles/caruntu.dir/main.cpp.obj	cd7ac5472617e046
+10566	11162	6929239015524354	caruntu.exe	c03de6b57d6bca34
